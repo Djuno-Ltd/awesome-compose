@@ -7,5 +7,4 @@
 
 ### Contents
 
-- [confluent all-in-one with kafdrop](#confluent-all-in-one-with-kafdrop).
-
+- [`confluent all-in-one with kafdrop`](https://github.com/Djuno-Ltd/awesome-compose/tree/main/confluent-all-in-one-with-kafdrop) - confluent all-in-one with kafdrop.
